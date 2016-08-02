@@ -1,0 +1,53 @@
+{
+  "website":{
+    "title": "Massimo Quadrana's Webpage"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "About",
+    "papers": "Papers",
+    "career": "Career",
+    "contact": "Link"
+  },
+  "about_me":{
+    "about_me": "About Me",
+    "des": "I am a PhD student in Information Technology at Politecnico di Milano, Dipartimento di Elettronica, Informazione e Bioingegneria (DEIB), under the supervision of prof. Paolo Cremonesi. My research interests include sequential recommender systems, deep-learning and large-scale machine learning."
+  },
+  "papers":{
+    "papers": "Papers"
+  },
+  "career":{
+    "my_career": "My Career",
+    "pandora": "Pandora Media Inc.",
+    "pandora_des": "'m currently a Music Science intern at Pandora Media Inc. (Oakland, CA, USA). I'm working with Tao Ye, Erik Schmidt and Puya-Hossein on Deep Learning algorithms for sequence classification.",
+    "pandora_date": "Jun 2016",
+    "pandora_job": "Intern",
+    "telefonica": "Telefonica I+D",
+    "telefonica_des": "I was a Research Intern at Telefonica I+D (Barcelona, Spain). I worked with Alexandros Karatzoglou and Bal&aacute;zs Hidasi (Gravity R&amp;D) on Recurrent Neural Networks for Session Based Recommendation.",
+    "telefonica_date": "Sep 2015 - May 2016",
+    "telefonica_job": "Intern",
+    "phd": "Started my PhD ",
+    "phd_des": "I started my PhD in Information Technology at the Polictecnico di Milano, Milan, Italy. I'll be working on Sequential Recommender Systems.",
+    "phd_date": "Sep 2013 - Ongoing",
+    "phd_job": "PhD",
+    "master-ita": "Master Degree (ITA)",
+    "master-ita_des": "I received my M.Sc. with laude in Computer Science from Politecnico di Milano (Double degree with the Univirsitat Politecnica de Catalunya, Barcelona, Spain). Thesis: E-Tourism Recommender Systems - Advisor: Prof. Paolo Cremonesi",
+    "master-ita_date": "Sep 2013",
+    "master-ita_job": "Student",
+    "master-spa": "Master Degree (SPA)",
+    "master-spa_des": "I received my M.Sc. in Computer Science from Univirsitat Politecnica de Catalunya, Barcelona, Spain. Thesis: Methods for frequent pattern mining in data streams within the MOA system - Advisor: Prof. Ricard Gavald&aacute;",
+    "master-spa_date": "Jun 2012",
+    "master-spa_job": "Student",
+    "bachelor": "Graduation",
+    "bachelor_des": "I received my B.Sc. in Computer Science from Politecnico di Milano. Thesis: Integration and evaluation of feature­tracking algorithms within a visual SLAM system - Advisor: Prof. Matteo Matteucci",
+    "bachelor_date": "Sep 2010",
+    "bachelor_job": "Student"
+  },
+  "contact":{
+    "contact_me": "Link",
+    "email": "Send me mail",
+    "follow": "Or through the following ways"
+    "follow": "Or through the following ways"
+  }
+
+}

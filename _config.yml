@@ -1,21 +1,54 @@
 # Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+# Website settings
+title: "Massimo Quadrana's Webpage"
+description: "Massimo's Webapage and blog"
+keywords: "Quadrana,phd,PhD,blog,resume,papers"
+
+baseurl: "/"
+url: "http://mquad.github.io"
+# url: "http://127.0.0.1:4000"
+
+# author
+author:
+  name: 'Massimo Quadrana'
+  first_name: 'Massimo'
+  last_name: 'Quadrana'
+  email: 'massimo.quadrana@polimi.it'
+  github_username: 'mquad'
+  head_img: 'static/img/landing/max.jpg'
+
+# landing page
+landing:
+  home: 'Home'
+  about: 'About'
+  career: 'Career'
+  papers: 'Papers'
+  contact: 'Link'
+
+# blog index
+# index:
+#   home: 'Home'
+#   python: 'Python'
+#   linux: 'Linux'
+#   html: 'HTML'
+#   database: 'Database'
+#   mac: 'Mac'
+#   life: 'Life'
+
+# comment
+changyan:
+  # appid: cysfY7ULn
+  # conf: prod_861928934cecb7a18e15bedaed9dae29
+
+# blog img path
+img_path: '/static/img/blog'
 
 # Build settings
+encoding: "utf-8"
+
+highlighter: rouge
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
